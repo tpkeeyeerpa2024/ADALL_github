@@ -1,0 +1,7 @@
+,0,DTR_llm_encode
+0,cv_mae_val,202.34523831810884
+1,cv_std_val,9.088405610571588
+2,cv_mae_train,105.12548342500762
+3,cv_std_train,3.7709667501193684
+4,holdout_mae,180.55789761294258
+5,best para,"{'regressor__criterion': 'squared_error', 'regressor__max_depth': 10, 'regressor__min_samples_split': 10}"

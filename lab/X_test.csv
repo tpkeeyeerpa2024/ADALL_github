@@ -1,0 +1,201 @@
+Brand,Model,CPU,GPU,RAM_GB,Storage_GB,Touchscreen,Weight_kg,Screen_Size_inch
+HP,Pavilion 15,Intel i7-14700H,NVIDIA RTX 4060,16,4096,True,1.97,15.6
+Lenovo,IdeaPad 5,Intel i5-14600H,NVIDIA RTX 4050,8,256,False,1.55,16.0
+Lenovo,ThinkBook 14s,Intel i9-14900HK,NVIDIA RTX 4070,16,512,False,2.14,15.6
+Lenovo,ThinkBook 14s,Intel i5-14600H,NVIDIA RTX 4050,16,512,True,2.26,15.6
+Dell,Inspiron 15,Intel Core Ultra 7 15500H,NVIDIA RTX 4060,16,4096,True,1.31,13.3
+Lenovo,Legion 5,AMD Ryzen 9 8900HX,AMD Radeon 780M,32,2048,False,2.22,16.0
+HP,Pavilion 15,AMD Ryzen 7 8800H,NVIDIA RTX 4060,64,1024,True,3.0,18.4
+Dell,XPS 13,Intel Core Ultra 7 15500H,NVIDIA RTX 4060,32,1024,True,2.62,18.4
+Microsoft,Surface Laptop Studio,Intel Core Ultra 7 15500H,Intel Arc A750M,64,2048,False,2.65,17.3
+Acer,Aspire 5,AMD Ryzen 5 8600H,NVIDIA RTX 3050,128,256,False,1.26,14.0
+Lenovo,IdeaPad 5,Intel i7-14800H,NVIDIA RTX 4070,8,2048,False,1.49,14.0
+Acer,Aspire 5,AMD Ryzen 5 8600H,NVIDIA RTX 3050,64,4096,True,1.17,14.0
+HP,EliteBook 840,AMD Ryzen 7 8800H,NVIDIA RTX 4060,64,256,True,3.28,17.3
+Microsoft,Surface Laptop Studio,AMD Ryzen 9 8900HX,NVIDIA RTX 4070,128,256,True,1.2,14.0
+Microsoft,Surface Go 3,Intel i5-14600H,NVIDIA RTX 4050,16,1024,True,1.99,15.6
+Microsoft,Surface Laptop 5,Intel i9-14900HK,NVIDIA RTX 4080,16,1024,True,1.08,13.3
+Asus,ZenBook 14,Intel i7-14700H,NVIDIA RTX 4070,128,1024,True,2.62,18.4
+Microsoft,Surface Laptop 5,AMD Ryzen 9 8900HX,AMD Radeon 780M,128,1024,False,2.45,16.0
+Lenovo,Legion 5,Intel Core Ultra 7 15500H,Intel Arc A750M,64,1024,False,2.41,15.6
+Asus,TUF Gaming F15,Intel i5-14600H,NVIDIA RTX 3050,8,1024,True,1.29,13.3
+HP,EliteBook 840,AMD Ryzen 9 8900HX,NVIDIA RTX 4080,128,512,False,3.07,17.3
+Acer,Nitro 5,Intel i7-14700H,NVIDIA RTX 4070,128,256,False,1.16,14.0
+Dell,Inspiron 15,AMD Ryzen 5 8600H,NVIDIA RTX 4050,128,2048,True,3.4,18.4
+HP,Pavilion 15,AMD Ryzen 7 8800H,AMD Radeon 780M,32,2048,False,1.0,13.3
+Asus,ROG Zephyrus G15,Intel i7-14700H,NVIDIA RTX 4070,32,512,False,1.55,16.0
+Asus,ZenBook 14,Intel Core Ultra 9 15700H,Intel Arc A750M,32,512,True,1.05,13.3
+Acer,Predator Helios 300,Intel i7-14800H,NVIDIA RTX 4060,16,512,True,1.41,14.0
+Microsoft,Surface Go 3,Intel i7-14700H,NVIDIA RTX 4070,8,512,True,1.79,15.6
+Microsoft,Surface Go 3,AMD Ryzen 5 8600H,NVIDIA RTX 3050,8,256,False,1.9,15.6
+Microsoft,Surface Go 3,AMD Ryzen 5 8600H,AMD Radeon 680M,128,4096,True,1.62,15.6
+Asus,ExpertBook B9,AMD Ryzen 7 8800H,NVIDIA RTX 4070,16,4096,False,1.45,13.3
+Acer,Nitro 5,Intel i5-14500H,NVIDIA RTX 4050,32,2048,False,1.74,15.6
+HP,Envy 13,Intel Core Ultra 7 15500H,Intel Arc A750M,64,256,False,2.99,17.3
+Dell,XPS 13,AMD Ryzen 5 8600H,NVIDIA RTX 3050,16,2048,False,3.3,18.4
+Dell,Latitude 7420,Intel i5-14600H,NVIDIA RTX 3050,128,2048,True,3.0,18.4
+Asus,ZenBook 14,Intel i5-14600H,NVIDIA RTX 4050,8,256,False,2.52,18.4
+Lenovo,ThinkPad X1 Carbon,Intel Core Ultra 9 15700H,Intel Arc A750M,64,256,True,3.45,17.3
+HP,Omen 15,Intel i5-14500H,NVIDIA RTX 4050,128,256,True,1.57,15.6
+Microsoft,Surface Book 3,Intel i5-14600H,Intel Iris Xe,8,1024,False,2.93,17.3
+Acer,TravelMate P6,AMD Ryzen 7 8800H,NVIDIA RTX 4060,32,1024,True,1.11,13.3
+Asus,TUF Gaming F15,Intel i7-14800H,NVIDIA RTX 4070,128,2048,True,1.19,14.0
+Acer,Swift 3,AMD Ryzen 7 8800H,NVIDIA RTX 4060,64,1024,False,3.35,17.3
+Asus,ExpertBook B9,Intel i5-14500H,NVIDIA RTX 4050,8,1024,True,1.83,16.0
+Microsoft,Surface Book 3,AMD Ryzen 5 8600H,AMD Radeon 680M,16,4096,True,2.7,18.4
+Asus,VivoBook S15,Intel i5-14500H,NVIDIA RTX 4050,64,512,False,2.68,18.4
+Asus,VivoBook S15,AMD Ryzen 5 8600H,NVIDIA RTX 4050,64,512,True,1.62,15.6
+Microsoft,Surface Go 3,Intel i7-14700H,NVIDIA RTX 4070,8,256,False,3.28,17.3
+HP,EliteBook 840,Intel i5-14600H,Intel Iris Xe,64,2048,False,3.45,18.4
+Dell,XPS 15,Intel i7-14700H,NVIDIA RTX 4070,64,512,False,1.01,14.0
+Microsoft,Surface Laptop Studio,Intel i7-14800H,NVIDIA RTX 4080,8,1024,False,1.25,13.3
+HP,Omen 15,Intel i5-14500H,Intel Iris Xe,8,2048,True,2.29,15.6
+Microsoft,Surface Go 3,AMD Ryzen 9 8900HX,NVIDIA RTX 4080,16,4096,False,2.87,17.3
+Asus,ExpertBook B9,AMD Ryzen 9 8900HX,NVIDIA RTX 4070,128,2048,True,2.8,17.3
+HP,Pavilion 15,Intel i7-14800H,NVIDIA RTX 4060,128,4096,False,3.08,17.3
+Acer,Nitro 5,Intel i5-14600H,NVIDIA RTX 3050,64,1024,True,1.16,14.0
+Acer,Swift 3,AMD Ryzen 9 8900HX,AMD Radeon 780M,8,2048,False,1.22,14.0
+HP,Omen 15,AMD Ryzen 5 8600H,AMD Radeon 680M,16,4096,True,1.31,13.3
+Acer,Nitro 5,Intel i5-14600H,Intel Iris Xe,32,256,True,1.06,14.0
+Asus,VivoBook S15,AMD Ryzen 5 8600H,NVIDIA RTX 4050,64,1024,False,1.11,14.0
+Lenovo,Legion 5,Intel i5-14600H,Intel Iris Xe,8,4096,False,1.1,13.3
+Asus,ROG Zephyrus G15,Intel Core Ultra 9 15700H,Intel Arc A750M,8,4096,False,2.78,18.4
+Acer,Nitro 5,AMD Ryzen 7 8800H,NVIDIA RTX 4070,64,2048,False,2.01,15.6
+HP,Omen 15,Intel Core Ultra 7 15500H,Intel Arc A750M,16,2048,True,1.08,14.0
+Asus,ROG Zephyrus G15,Intel i5-14500H,Intel Iris Xe,128,1024,True,2.48,16.0
+HP,Omen 15,Intel i9-14900HK,NVIDIA RTX 4070,128,2048,False,1.01,13.3
+Lenovo,ThinkBook 14s,Intel Core Ultra 9 15700H,NVIDIA RTX 4070,32,4096,False,2.98,18.4
+Lenovo,IdeaPad 5,Intel Core Ultra 9 15700H,NVIDIA RTX 4080,128,2048,False,2.97,18.4
+Microsoft,Surface Book 3,Intel i5-14600H,Intel Iris Xe,64,2048,False,2.0,16.0
+Acer,Swift 3,Intel Core Ultra 9 15700H,NVIDIA RTX 4070,8,1024,False,3.25,18.4
+HP,Pavilion 15,Intel i7-14800H,NVIDIA RTX 4080,32,1024,True,2.53,17.3
+Acer,Swift 3,Intel i9-14900HK,NVIDIA RTX 4080,32,2048,False,2.01,15.6
+Dell,XPS 13,Intel i5-14600H,NVIDIA RTX 3050,128,512,False,3.44,18.4
+HP,Pavilion 15,AMD Ryzen 7 8800H,AMD Radeon 780M,8,4096,False,3.07,18.4
+Lenovo,Legion 5,Intel i5-14600H,NVIDIA RTX 4050,16,256,False,3.07,17.3
+Asus,TUF Gaming F15,AMD Ryzen 9 8900HX,NVIDIA RTX 4080,64,256,False,1.02,14.0
+Asus,VivoBook S15,Intel Core Ultra 9 15700H,Intel Arc A750M,64,512,True,1.0,13.3
+Lenovo,Legion 5,Intel i7-14800H,NVIDIA RTX 4060,32,1024,True,1.14,14.0
+Acer,Nitro 5,Intel i9-14900HK,NVIDIA RTX 4070,32,1024,True,1.19,13.3
+HP,Envy 13,Intel i7-14800H,NVIDIA RTX 4070,16,256,True,1.87,15.6
+Asus,VivoBook S15,Intel Core Ultra 9 15700H,NVIDIA RTX 4080,64,4096,True,2.95,17.3
+Lenovo,ThinkPad X1 Carbon,Intel i9-14900HK,NVIDIA RTX 4080,16,1024,False,1.03,13.3
+Acer,Predator Helios 300,Intel i9-14900HK,NVIDIA RTX 4070,128,2048,True,1.9,16.0
+Asus,TUF Gaming F15,AMD Ryzen 5 8600H,AMD Radeon 680M,8,4096,True,2.11,16.0
+Acer,TravelMate P6,Intel i7-14800H,NVIDIA RTX 4070,16,2048,False,1.79,15.6
+Asus,TUF Gaming F15,Intel i7-14700H,NVIDIA RTX 4070,64,256,True,2.24,16.0
+HP,Pavilion 15,Intel i5-14500H,NVIDIA RTX 4050,8,2048,False,2.5,17.3
+Microsoft,Surface Laptop 5,Intel i9-14900HK,NVIDIA RTX 4080,32,512,True,2.12,16.0
+Lenovo,Legion 5,AMD Ryzen 5 8600H,NVIDIA RTX 3050,64,2048,True,1.2,14.0
+Lenovo,Legion 5,Intel i5-14600H,NVIDIA RTX 3050,32,1024,True,2.74,17.3
+Asus,TUF Gaming F15,Intel i7-14700H,NVIDIA RTX 4070,64,512,False,2.02,15.6
+Dell,Inspiron 15,Intel i7-14800H,NVIDIA RTX 4060,64,1024,True,2.68,18.4
+Dell,Latitude 7420,Intel i5-14600H,NVIDIA RTX 4050,64,1024,True,1.28,14.0
+HP,Pavilion 15,Intel i7-14800H,NVIDIA RTX 4060,128,4096,True,2.84,18.4
+Asus,ZenBook 14,Intel i5-14500H,NVIDIA RTX 4050,32,1024,False,1.09,13.3
+Lenovo,ThinkPad X1 Carbon,Intel Core Ultra 9 15700H,Intel Arc A750M,128,512,False,2.46,16.0
+Dell,XPS 13,Intel Core Ultra 9 15700H,NVIDIA RTX 4070,64,1024,False,3.47,18.4
+Lenovo,ThinkPad X1 Carbon,Intel i5-14600H,Intel Iris Xe,32,512,False,1.62,16.0
+Acer,TravelMate P6,Intel i5-14600H,NVIDIA RTX 3050,8,4096,True,3.4,17.3
+Acer,Predator Helios 300,Intel i9-14900HK,NVIDIA RTX 4080,32,4096,False,2.8,18.4
+Microsoft,Surface Go 3,Intel i7-14700H,NVIDIA RTX 4060,8,4096,True,2.47,16.0
+Lenovo,ThinkBook 14s,Intel i9-14900HK,NVIDIA RTX 4080,64,4096,True,2.49,15.6
+Asus,VivoBook S15,Intel i5-14600H,NVIDIA RTX 4050,32,2048,False,1.4,13.3
+Microsoft,Surface Laptop Studio,Intel i7-14800H,NVIDIA RTX 4080,16,2048,True,2.11,16.0
+Asus,ExpertBook B9,AMD Ryzen 5 8600H,NVIDIA RTX 3050,64,256,True,3.18,17.3
+HP,Spectre x360,Intel i5-14600H,NVIDIA RTX 3050,32,2048,False,1.25,13.3
+HP,Pavilion 15,Intel Core Ultra 7 15500H,Intel Arc A750M,8,512,True,2.44,15.6
+HP,Pavilion 15,Intel i7-14700H,NVIDIA RTX 4060,32,512,True,3.39,17.3
+Microsoft,Surface Go 3,AMD Ryzen 5 8600H,NVIDIA RTX 3050,128,512,False,1.12,13.3
+Acer,Swift 3,Intel i7-14700H,NVIDIA RTX 4060,32,2048,False,1.12,14.0
+Microsoft,Surface Laptop Studio,AMD Ryzen 5 8600H,NVIDIA RTX 3050,16,1024,False,1.17,14.0
+HP,Omen 15,Intel Core Ultra 7 15500H,Intel Arc A750M,8,4096,False,1.16,14.0
+Lenovo,Legion 5,Intel Core Ultra 9 15700H,NVIDIA RTX 4080,8,1024,False,2.7,18.4
+Microsoft,Surface Pro 8,Intel i5-14500H,NVIDIA RTX 3050,32,4096,True,2.13,15.6
+Lenovo,Yoga Slim 7,AMD Ryzen 7 8800H,NVIDIA RTX 4060,64,256,False,1.29,14.0
+Acer,Nitro 5,Intel Core Ultra 9 15700H,Intel Arc A750M,16,2048,False,2.92,18.4
+Dell,Alienware M15,AMD Ryzen 9 8900HX,NVIDIA RTX 4070,8,512,False,1.07,13.3
+Asus,TUF Gaming F15,Intel i5-14600H,NVIDIA RTX 4050,8,256,True,2.77,17.3
+Microsoft,Surface Laptop 5,Intel i5-14600H,NVIDIA RTX 4050,16,256,False,3.33,18.4
+HP,Spectre x360,Intel i5-14500H,NVIDIA RTX 3050,64,512,True,1.7,16.0
+Asus,VivoBook S15,Intel i7-14800H,NVIDIA RTX 4070,16,1024,False,1.81,15.6
+Microsoft,Surface Pro 8,AMD Ryzen 9 8900HX,NVIDIA RTX 4080,32,1024,True,2.52,18.4
+Dell,XPS 15,Intel i7-14800H,NVIDIA RTX 4060,8,2048,False,1.01,14.0
+Lenovo,Legion 5,Intel i7-14800H,NVIDIA RTX 4070,8,256,True,2.71,18.4
+Asus,VivoBook S15,Intel i9-14900HK,NVIDIA RTX 4070,64,256,False,2.03,16.0
+Asus,ExpertBook B9,Intel i5-14600H,NVIDIA RTX 3050,8,2048,False,1.43,14.0
+HP,Envy 13,Intel Core Ultra 7 15500H,NVIDIA RTX 4070,16,2048,False,1.39,14.0
+HP,Omen 15,Intel i5-14500H,Intel Iris Xe,8,4096,True,1.26,13.3
+Dell,XPS 15,Intel i5-14500H,Intel Iris Xe,32,1024,True,1.97,16.0
+Microsoft,Surface Go 3,Intel i5-14500H,Intel Iris Xe,128,2048,False,2.76,17.3
+Lenovo,Yoga Slim 7,Intel i5-14600H,NVIDIA RTX 3050,32,256,False,1.42,13.3
+HP,Pavilion 15,AMD Ryzen 9 8900HX,AMD Radeon 780M,32,512,True,1.64,16.0
+Microsoft,Surface Pro 8,Intel i5-14500H,NVIDIA RTX 4050,8,256,False,1.19,13.3
+Asus,VivoBook S15,Intel Core Ultra 9 15700H,NVIDIA RTX 4070,128,4096,False,2.62,17.3
+Microsoft,Surface Go 3,Intel i7-14800H,NVIDIA RTX 4070,32,512,False,1.15,13.3
+HP,Spectre x360,Intel Core Ultra 7 15500H,NVIDIA RTX 4060,128,4096,False,2.48,16.0
+Acer,TravelMate P6,Intel i5-14500H,Intel Iris Xe,64,512,False,1.47,14.0
+Acer,Aspire 5,Intel i7-14700H,NVIDIA RTX 4060,8,512,False,1.42,14.0
+Asus,ExpertBook B9,Intel i5-14600H,Intel Iris Xe,16,1024,False,2.23,15.6
+Acer,Predator Helios 300,AMD Ryzen 5 8600H,NVIDIA RTX 3050,16,2048,True,2.58,17.3
+Acer,TravelMate P6,Intel i7-14700H,NVIDIA RTX 4060,64,512,False,1.16,14.0
+Acer,Aspire 5,AMD Ryzen 9 8900HX,NVIDIA RTX 4070,64,1024,True,2.15,15.6
+Asus,ZenBook 14,AMD Ryzen 5 8600H,AMD Radeon 680M,8,256,True,2.58,18.4
+Lenovo,Yoga Slim 7,Intel i7-14700H,NVIDIA RTX 4070,8,1024,True,1.21,14.0
+Asus,ExpertBook B9,AMD Ryzen 9 8900HX,NVIDIA RTX 4080,128,2048,False,1.86,15.6
+Microsoft,Surface Book 3,AMD Ryzen 9 8900HX,NVIDIA RTX 4080,128,512,True,1.06,13.3
+Microsoft,Surface Pro 8,Intel Core Ultra 9 15700H,NVIDIA RTX 4080,16,512,False,1.94,15.6
+Lenovo,Yoga Slim 7,Intel i5-14500H,NVIDIA RTX 3050,16,2048,True,1.9,16.0
+Asus,TUF Gaming F15,Intel i5-14600H,NVIDIA RTX 4050,128,1024,True,1.8,15.6
+Lenovo,ThinkBook 14s,Intel i7-14700H,NVIDIA RTX 4060,16,1024,False,1.08,14.0
+Asus,ROG Zephyrus G15,Intel Core Ultra 9 15700H,NVIDIA RTX 4070,8,1024,True,1.37,14.0
+HP,EliteBook 840,Intel Core Ultra 7 15500H,Intel Arc A750M,128,512,True,2.07,16.0
+Acer,Aspire 5,Intel i7-14800H,NVIDIA RTX 4080,128,1024,True,1.6,15.6
+Microsoft,Surface Pro 8,AMD Ryzen 7 8800H,AMD Radeon 780M,16,256,True,1.04,13.3
+Dell,Alienware M15,AMD Ryzen 5 8600H,AMD Radeon 680M,16,256,False,1.06,13.3
+Microsoft,Surface Book 3,AMD Ryzen 5 8600H,NVIDIA RTX 3050,64,4096,True,3.21,17.3
+Dell,XPS 15,Intel i5-14600H,Intel Iris Xe,32,512,True,1.09,13.3
+Asus,TUF Gaming F15,AMD Ryzen 7 8800H,NVIDIA RTX 4060,64,1024,False,1.88,16.0
+Lenovo,IdeaPad 5,Intel i7-14700H,NVIDIA RTX 4070,64,2048,True,3.15,18.4
+Acer,Predator Helios 300,AMD Ryzen 7 8800H,NVIDIA RTX 4060,32,4096,True,2.75,18.4
+Microsoft,Surface Pro 8,Intel Core Ultra 7 15500H,NVIDIA RTX 4070,64,4096,False,1.33,13.3
+HP,Spectre x360,AMD Ryzen 7 8800H,AMD Radeon 780M,8,2048,False,2.36,15.6
+Lenovo,Yoga Slim 7,Intel i5-14600H,Intel Iris Xe,64,512,True,1.35,13.3
+HP,Omen 15,Intel i7-14700H,NVIDIA RTX 4060,128,256,False,1.27,13.3
+HP,EliteBook 840,Intel i7-14700H,NVIDIA RTX 4060,16,1024,False,1.32,13.3
+Microsoft,Surface Pro 8,Intel i9-14900HK,NVIDIA RTX 4070,8,512,False,1.55,16.0
+Lenovo,ThinkBook 14s,Intel i5-14600H,Intel Iris Xe,8,2048,False,2.6,18.4
+Asus,ROG Zephyrus G15,AMD Ryzen 5 8600H,AMD Radeon 680M,8,1024,False,3.14,17.3
+Lenovo,ThinkPad X1 Carbon,Intel Core Ultra 7 15500H,NVIDIA RTX 4060,64,4096,False,1.91,16.0
+Asus,TUF Gaming F15,AMD Ryzen 5 8600H,AMD Radeon 680M,128,512,True,1.03,14.0
+Asus,ZenBook 14,Intel i5-14600H,NVIDIA RTX 3050,64,256,False,1.9,16.0
+Dell,Latitude 7420,Intel Core Ultra 9 15700H,Intel Arc A750M,32,512,True,2.91,18.4
+Dell,XPS 13,Intel i5-14600H,Intel Iris Xe,32,512,False,1.15,14.0
+Acer,TravelMate P6,AMD Ryzen 9 8900HX,NVIDIA RTX 4080,64,256,True,1.38,14.0
+Microsoft,Surface Pro 8,Intel i7-14700H,NVIDIA RTX 4070,16,256,False,1.99,16.0
+Dell,Alienware M15,Intel Core Ultra 9 15700H,NVIDIA RTX 4080,8,256,True,2.97,18.4
+Dell,XPS 13,Intel Core Ultra 7 15500H,Intel Arc A750M,128,256,False,2.46,16.0
+Asus,TUF Gaming F15,Intel i5-14600H,NVIDIA RTX 3050,16,512,True,2.22,15.6
+Asus,ROG Zephyrus G15,AMD Ryzen 9 8900HX,AMD Radeon 780M,32,256,True,2.4,15.6
+Lenovo,IdeaPad 5,Intel i5-14600H,NVIDIA RTX 3050,32,256,False,1.42,14.0
+Lenovo,ThinkPad X1 Carbon,AMD Ryzen 9 8900HX,AMD Radeon 780M,64,4096,True,2.66,17.3
+Dell,XPS 13,AMD Ryzen 9 8900HX,AMD Radeon 780M,64,256,False,1.01,13.3
+Lenovo,IdeaPad 5,Intel i5-14600H,Intel Iris Xe,128,1024,False,1.16,13.3
+Dell,XPS 13,Intel Core Ultra 7 15500H,NVIDIA RTX 4070,32,1024,False,1.49,14.0
+HP,EliteBook 840,Intel i7-14700H,NVIDIA RTX 4070,16,1024,True,2.13,15.6
+Microsoft,Surface Go 3,Intel Core Ultra 9 15700H,Intel Arc A750M,8,2048,False,3.1,17.3
+Acer,TravelMate P6,AMD Ryzen 5 8600H,NVIDIA RTX 3050,64,2048,False,3.01,18.4
+Dell,XPS 15,Intel i5-14600H,Intel Iris Xe,64,1024,True,1.47,13.3
+Dell,Latitude 7420,Intel i7-14700H,NVIDIA RTX 4070,8,1024,False,2.39,15.6
+Microsoft,Surface Book 3,Intel i9-14900HK,NVIDIA RTX 4070,32,4096,True,1.04,14.0
+Lenovo,Legion 5,AMD Ryzen 7 8800H,NVIDIA RTX 4070,64,512,True,3.42,18.4
+Microsoft,Surface Laptop 5,AMD Ryzen 9 8900HX,AMD Radeon 780M,8,256,True,2.83,17.3
+Microsoft,Surface Book 3,Intel Core Ultra 9 15700H,NVIDIA RTX 4080,32,512,False,2.63,17.3
+Lenovo,Legion 5,Intel Core Ultra 7 15500H,NVIDIA RTX 4070,8,2048,True,2.18,15.6
+Asus,ROG Zephyrus G15,Intel i5-14600H,NVIDIA RTX 4050,64,2048,False,2.75,18.4
+Asus,VivoBook S15,Intel i9-14900HK,NVIDIA RTX 4080,32,2048,False,3.08,17.3
+Dell,Inspiron 15,Intel Core Ultra 9 15700H,Intel Arc A750M,8,256,True,1.18,13.3
+Asus,VivoBook S15,AMD Ryzen 5 8600H,NVIDIA RTX 4050,64,4096,False,1.28,14.0
+Asus,ROG Zephyrus G15,Intel i7-14700H,NVIDIA RTX 4060,128,2048,False,2.63,17.3
+HP,Pavilion 15,Intel i7-14700H,NVIDIA RTX 4060,64,512,False,3.09,17.3
+Acer,Aspire 5,Intel i9-14900HK,NVIDIA RTX 4080,64,256,True,3.0,18.4
