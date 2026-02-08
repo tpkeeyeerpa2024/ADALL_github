@@ -7,7 +7,6 @@ num__JobInvolvement
 num__JobSatisfaction
 num__MonthlyIncome
 num__NumCompaniesWorked
-num__PercentSalaryHike
 num__PerformanceRating
 num__RelationshipSatisfaction
 num__StockOptionLevel
@@ -15,6 +14,8 @@ num__TrainingTimesLastYear
 num__WorkLifeBalance
 num__YearsAtCompany
 num__YearsSinceLastPromotion
+num__Gender_num
+num__OverTime_num
 cat__BusinessTravel_Non-Travel
 cat__BusinessTravel_Travel_Frequently
 cat__BusinessTravel_Travel_Rarely
@@ -27,8 +28,6 @@ cat__EducationField_Marketing
 cat__EducationField_Medical
 cat__EducationField_Other
 cat__EducationField_Technical Degree
-cat__Gender_Female
-cat__Gender_Male
 cat__JobRole_Healthcare Representative
 cat__JobRole_Human Resources
 cat__JobRole_Laboratory Technician
@@ -41,5 +40,3 @@ cat__JobRole_Sales Representative
 cat__MaritalStatus_Divorced
 cat__MaritalStatus_Married
 cat__MaritalStatus_Single
-cat__OverTime_No
-cat__OverTime_Yes
