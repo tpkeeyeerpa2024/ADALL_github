@@ -3,10 +3,12 @@ num__Age
 num__DistanceFromHome
 num__Education
 num__EnvironmentSatisfaction
+num__Gender
 num__JobInvolvement
 num__JobSatisfaction
 num__MonthlyIncome
 num__NumCompaniesWorked
+num__OverTime
 num__PerformanceRating
 num__RelationshipSatisfaction
 num__StockOptionLevel
@@ -14,8 +16,6 @@ num__TrainingTimesLastYear
 num__WorkLifeBalance
 num__YearsAtCompany
 num__YearsSinceLastPromotion
-num__Gender_num
-num__OverTime_num
 cat__BusinessTravel_Non-Travel
 cat__BusinessTravel_Travel_Frequently
 cat__BusinessTravel_Travel_Rarely
